@@ -1,0 +1,14 @@
+{
+  "name": "svelte-web-component",
+  "repository": "https://github.com/tgm-templates/svelte-web-component",
+  "description": "Svelte Web Component template",
+  "variables": [
+    {
+      "name": "appName",
+      "description": "App name"
+    }
+  ],
+  "files": [
+    "package.json"
+  ]
+}
